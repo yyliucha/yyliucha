@@ -2,19 +2,23 @@
   <img src="assets/hero.svg" width="100%" alt="sunming@github 终端窗口：whoami、ls ~/projects、cat motto.txt">
 </p>
 
-<p align="center"><b>写后端，也写工具</b> · 把重复的事交给机器</p>
+<h1 align="center">Hi 👋 我是 sunming</h1>
 
-## 01 · 关于
+<p align="center">
+  <b>后端 · 工具 · 自动化</b><br>
+  <sub>把重复的事交给机器，再让它一直跑下去</sub>
+</p>
 
-写后端，也写工具。日常的起点往往是某个很烦的小动作：一集一集点播放、每周手动比价、图片一张张存下来——把这种事拆成脚本，再打磨成能一直跑下去的东西，是我比较喜欢的工作方式。
 
-主力是 **C#/.NET** 和 **JavaScript**；要写插件就上 **Java**（Halo 2.x）；跟系统、文件打交道时用 **Python**。项目不管是几百行还是几万行，都尽量做到能交付：结构化日志、容器化、失败可重试、有数据迁移。
+## 🧭 关于我
 
-- **产品化** — 后端、插件、桌面工具，从零做到能跑
-- **自动化** — 采集、定时任务、批处理，把人工步骤压到零
-- **工程化** — Docker、迁移、日志，让脚本活过三个月
+- 🔭 **现在在做** —— [steamdeals](https://github.com/yyliucha/steamdeals)：中文游戏的价格履历，官方渠道比价 + 价格历史
+- 🌱 **在折腾** —— Halo 2.x 插件生态（Java + Vue），把自用脚本做成能长期跑的服务
+- 🧰 **日常工具** —— C#/.NET · Java · Node.js · Python · PostgreSQL · Docker
+- 💬 **可以问我** —— 数据采集与定时任务、插件开发、Windows 桌面小工具
+- 📫 **找到我** —— 在任意仓库开 issue，说清场景和复现步骤
 
-## 02 · 精选项目
+## 🚀 精选项目
 
 **[steamdeals](https://github.com/yyliucha/steamdeals)** · 中文游戏的价格履历
 
@@ -34,7 +38,7 @@ Halo 2.x 插件。记纪念日、生日（阳历/农历），顺带管座驾：�
 
 `JavaScript` `Playwright` `Tampermonkey`
 
-## 03 · 其他项目
+## 📦 其他项目
 
 | 项目 | 一句话 |
 | :--- | :--- |
@@ -44,7 +48,7 @@ Halo 2.x 插件。记纪念日、生日（阳历/农历），顺带管座驾：�
 | [yylcha.smoothSignature](https://github.com/yyliucha/yylcha.smoothSignature) | smoothsignature 签名实现 |
 | [QR.github.io](https://github.com/yyliucha/QR.github.io) | 二维码小页面 |
 
-## 04 · 技术栈
+## 🛠 技术栈
 
 **语言**
 
@@ -58,7 +62,13 @@ Halo 2.x 插件。记纪念日、生日（阳历/农历），顺带管座驾：�
 
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Halo 2.x](https://img.shields.io/badge/Halo_2.x-1F4FD8?style=for-the-badge) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
-## 05 · 联系
+## 🧠 做事的偏好
+
+1. **能自动化就别手工** —— 同一件事做第二遍，就该写脚本
+2. **先能跑，再收拾** —— 能用的 80 分，胜过完美的 0 分
+3. **让工具活下来** —— 日志、容器、可重试，决定它是玩具还是产品
+
+## 🤝 联系
 
 问题、建议、想一起做的，直接在对应仓库开 issue——写清场景和复现步骤，我大概率会回。
 
@@ -66,6 +76,6 @@ Halo 2.x 插件。记纪念日、生日（阳历/农历），顺带管座驾：�
 
 <sub>SUNMING / yyliucha · 用 Markdown 和一点强迫症搭的</sub>
 
-<a href="https://github.com/deepseek-ai/deepseek-harness"><img src="https://img.shields.io/badge/powered_by-dsh-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" width="121" height="20" alt="powered by dsh"></a>
+<a href="https://github.com/deepseek-ai/deepseek-harness"><img src="https://img.shields.io/badge/powered_by-dsh-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" width="121" height="20" alt="powered by dsh"></a>
 
 </div>
