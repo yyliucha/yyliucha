@@ -78,10 +78,15 @@ Halo 2.x 插件。记纪念日、生日（阳历/农历），顺带管座驾：�
 
 - **博客** —— [blog.yyliucha.cn](https://blog.yyliucha.cn)：Windows 运维排查、AI 编程工具实战、开源折腾
 - **邮箱** —— 见上方 EMAIL 徽章（已转成图片，防爬虫抓取）
-- **公众号** —— 爆抱琪，微信搜索即可关注
+- **公众号** —— 爆抱琪，微信搜索或扫下方二维码关注
 - **Issue** —— 问题、建议、想一起做的，直接在对应仓库开 issue，写清场景和复现步骤，我大概率会回
 
 <div align="center">
+
+<sub>微信扫码关注「爆抱琪」</sub><br>
+<img src="assets/wechat-qr.png" width="160" alt="微信公众号二维码">
+
+<br><br>
 
 <sub>SUNMING / yyliucha · 用 Markdown 和一点强迫症搭的</sub>
 
