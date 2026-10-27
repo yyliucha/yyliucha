@@ -76,6 +76,4 @@ Halo 2.x 插件。记纪念日、生日（阳历/农历），顺带管座驾：�
 
 <sub>SUNMING / yyliucha · 用 Markdown 和一点强迫症搭的</sub>
 
-<a href="https://github.com/deepseek-ai/deepseek-harness"><img src="https://img.shields.io/badge/powered_by-dsh-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" width="121" height="20" alt="powered by dsh"></a>
-
 </div>
