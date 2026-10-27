@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://blog.yyliucha.cn"><img src="https://img.shields.io/badge/BLOG-blog.yyliucha.cn-22D3EE?style=for-the-badge&logo=rss&logoColor=white" alt="blog.yyliucha.cn"></a>&nbsp;&nbsp;
-  <a href="mailto:jacksunyx@outlook.com"><img src="https://img.shields.io/badge/EMAIL-jacksunyx%40outlook.com-8B5CF6?style=for-the-badge" alt="jacksunyx@outlook.com"></a>&nbsp;&nbsp;
+  <img src="assets/email.png" height="28" alt="邮箱（图片，防爬虫）">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E7%88%86%E6%8A%B1%E7%90%AA-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="公众号：爆抱琪">
 </p>
 
@@ -77,7 +77,7 @@ Halo 2.x 插件。记纪念日、生日（阳历/农历），顺带管座驾：�
 ## 🤝 联系
 
 - **博客** —— [blog.yyliucha.cn](https://blog.yyliucha.cn)：Windows 运维排查、AI 编程工具实战、开源折腾
-- **邮箱** —— [jacksunyx@outlook.com](mailto:jacksunyx@outlook.com)
+- **邮箱** —— 见上方 EMAIL 徽章（已转成图片，防爬虫抓取）
 - **公众号** —— 爆抱琪，微信搜索即可关注
 - **Issue** —— 问题、建议、想一起做的，直接在对应仓库开 issue，写清场景和复现步骤，我大概率会回
 
