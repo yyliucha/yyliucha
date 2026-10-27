@@ -51,8 +51,8 @@ Halo 2.x 插件。记纪念日、生日（阳历/农历），顺带管座驾：�
 | [yylcha.pub](https://github.com/yyliucha/yylcha.pub) | C# 桌面工具箱：批量解压、NuGet 上传、git / svn 取码 |
 | [pixabay-downloader](https://github.com/yyliucha/pixabay-downloader) | Pixabay 批量下载：全局去重 + 定时任务，Docker 一条命令起 |
 | [halo-pixabay-plugin](https://github.com/yyliucha/halo-pixabay-plugin) | 定时把 Pixabay 图片灌进 Halo 附件库，按关键词归档 |
-| [yylcha.smoothSignature](https://github.com/yyliucha/yylcha.smoothSignature) | smoothsignature 签名实现 |
-| [QR.github.io](https://github.com/yyliucha/QR.github.io) | 二维码小页面 |
+| [yylcha.smoothSignature](https://github.com/yyliucha/yylcha.smoothSignature) | SmoothSignature 手写签名：C# 与 Vue 两套实现 |
+| [QR.github.io](https://github.com/yyliucha/QR.github.io) | 扫码整蛊落地页（非收款） |
 
 ## 🛠 技术栈
 
