@@ -9,10 +9,14 @@
   <sub>把重复的事交给机器，再让它一直跑下去</sub>
 </p>
 
+<p align="center">
+  <a href="https://blog.yyliucha.cn"><img src="https://img.shields.io/badge/BLOG-blog.yyliucha.cn-22D3EE?style=for-the-badge&logo=rss&logoColor=white" alt="blog.yyliucha.cn"></a>
+</p>
 
 ## 🧭 关于我
 
 - 🔭 **现在在做** —— [steamdeals](https://github.com/yyliucha/steamdeals)：中文游戏的价格履历，官方渠道比价 + 价格历史
+- ✍️ **在写** —— [YのBlog](https://blog.yyliucha.cn)：Windows 运维排查、AI 编程工具实战、开源折腾
 - 🌱 **在折腾** —— Halo 2.x 插件生态（Java + Vue），把自用脚本做成能长期跑的服务
 - 🧰 **日常工具** —— C#/.NET · Java · Node.js · Python · PostgreSQL · Docker
 - 💬 **可以问我** —— 数据采集与定时任务、插件开发、Windows 桌面小工具
@@ -70,7 +74,8 @@ Halo 2.x 插件。记纪念日、生日（阳历/农历），顺带管座驾：�
 
 ## 🤝 联系
 
-问题、建议、想一起做的，直接在对应仓库开 issue——写清场景和复现步骤，我大概率会回。
+- **博客** —— [blog.yyliucha.cn](https://blog.yyliucha.cn)：Windows 运维排查、AI 编程工具实战、开源折腾
+- **Issue** —— 问题、建议、想一起做的，直接在对应仓库开 issue，写清场景和复现步骤，我大概率会回
 
 <div align="center">
 
