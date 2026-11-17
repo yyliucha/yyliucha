@@ -44,13 +44,12 @@ Halo 2.x 插件。记纪念日、生日（阳历/农历），顺带管座驾：�
 
 `JavaScript` `Playwright` `Tampermonkey`
 
-**[dsh-skill-manager](https://github.com/yyliucha/dsh-skill-manager)** · DeepSeek Harness 技能管理器
+**[dsh-skill-switcher](https://github.com/yyliucha/dsh-skill-switcher)** · DeepSeek Harness 技能调用开关
 
-在 Harness 设置页里一键开关 agent 技能（全开 / 仅用户 / 已关闭），改动直接写进 SKILL.md frontmatter，即时生效、随时可逆；另附 `skill_manager` 工具，直接对话就能操作。
+在 Harness 输入框弹层和设置页里一键切换 agent 技能（全开 / 仅用户 / 已关闭），只改写 SKILL.md 的两个调用字段，即时生效、随时可逆；另附 `skill_manager` 工具，直接对话就能操作。
 
 `Node.js` `DeepSeek Harness` `Cordis`
 
-[![](https://img.shields.io/badge/powered_by-dsh-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness)
 
 ## 📦 其他项目
 
